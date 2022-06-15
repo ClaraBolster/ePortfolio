@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: Conceptual Framework of Structural Determinants of Stigma
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 summary: An example of using the in-built project page.
 url_video: ""
 featured: true
@@ -16,10 +16,11 @@ links:
     name: Read the full publication
     url: https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-41-no-3-2021/hpcdp-41-3-03-eng.pdf
 image:
-  caption: Conceptual framework of identified domains of structural determinants
-    and their relationship with the stigma process
+  caption: ""
   focal_point: Smart
   filename: featured.png
+  alt_text: Conceptual framework of identified domains of structural determinants
+    and their relationship with the stigma process
 url_code: ""
 ---
 **Introduction**: Stigma has been identified as a key determinant of health and health inequities because of its effects on access to health-enabling resources and stress expo- sure. Though existing reports offer in-depth summaries of the mechanisms through which stigma influences health, a review of evidence on the upstream drivers of stigma across health and social conditions has been missing. The objective of this review is to summarize known structural determinants of stigma experienced across health and social conditions in developed country settings.
