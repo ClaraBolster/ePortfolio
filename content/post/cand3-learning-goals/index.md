@@ -9,7 +9,7 @@ tags:
 image:
   filename: cand3.png
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 My learning goals during my 2021-2022 [Consortium on Analytics for Data-Driven Decision-Making (CAnD3)](https://www.mcgill.ca/cand3/) Fellowship are:
 
