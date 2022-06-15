@@ -19,9 +19,14 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/clara-bolster-foucault-603489b4/
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.ca/citations?user=lmOmNDUAAAAJ&hl=en&oi=ao
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Clara-Bolster-Foucault
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: McGill University
     url: https://www.mcgill.ca/epi-biostat-occh/
