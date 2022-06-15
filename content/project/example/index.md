@@ -1,33 +1,24 @@
 ---
-title: Example Project
+slides: example
+url_pdf: ""
+title: Conceptual Framework of Structural Determinants of Stigma
+date: 2016-04-27T00:00:00Z
 summary: An example of using the in-built project page.
+url_video: ""
+featured: true
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
+external_link: ""
+url_slides: ""
+links:
+  - icon: newspaper
+    icon_pack: far
+    name: Read the full publication
+    url: https://www.canada.ca/content/dam/phac-aspc/documents/services/reports-publications/health-promotion-chronic-disease-prevention-canada-research-policy-practice/vol-41-no-3-2021/hpcdp-41-3-03-eng.pdf
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+url_code: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
