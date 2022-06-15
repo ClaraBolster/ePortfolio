@@ -23,8 +23,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=lmOmNDUAAAAJ&hl=en&oi=ao
 organizations:
-  - name: McGill University, Department of Epidemiology, Biostatistics, and
-      Occupational Health
+  - name: McGill University
     url: https://www.mcgill.ca/epi-biostat-occh/
 education:
   courses:
