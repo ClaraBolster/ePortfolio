@@ -16,14 +16,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ClaraBolster
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.ca/citations?user=lmOmNDUAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/clara-bolster-foucault-603489b4/
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.ca/citations?user=lmOmNDUAAAAJ&hl=en&oi=ao
 organizations:
-  - name: McGill University
+  - name: McGill University, Department of Epidemiology, Biostatistics, and
+      Occupational Health
     url: https://www.mcgill.ca/epi-biostat-occh/
 education:
   courses:
@@ -46,3 +47,5 @@ I am a PhD candidate in Epidemiology at McGill University, in the School of Popu
 Prior to beginning my doctoral training, I worked at the Public Health Agency of Canada on research projects focused on developing a conceptual framework of structural determinants of stigma across health and social conditions and identifying barriers and facilitators to accessing HIV testing in Canada. I am currently collaborating with a regional healthcare industry partner in Ontario (SE Health) to evaluate case-mix groupings for home care delivery models for older adults transitioning out of acute care.
 
 I am also actively involved in community-based work, as the Co-Director of a local non-profit organization (Monthly Dignity) working to provide access to menstrual products to populations in precarious situations. In this context, I am collaborating on a small qualitative research project seeking to understand the scope and impacts of period poverty Montreal.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
