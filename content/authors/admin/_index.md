@@ -1,6 +1,6 @@
 ---
 role: PhD candidate in Epidemiology
-avatar_filename: 20211005-clarabf-004.jpg
+avatar_filename: 20211005-clarabf-004.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
